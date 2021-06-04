@@ -1,1 +1,2 @@
 # Unc-event-management
+The main vision of this project is to provide an event management application to the people especially the students and members of the University. The University of Nueva Caceres Event Management System Should be capable of implementing the requirements of an event management system. 
