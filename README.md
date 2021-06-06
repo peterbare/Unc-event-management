@@ -3,6 +3,3 @@ The main vision of this project is to provide an event management application to
 
 The purpose of the UNC Event management system is to provide and be capable of creating different types of events, that will allow the user to keep track of the event management in University of Nueva Caceres. The user may set a specific event according to his/her convenience anytime.
 
-<!--re-size the buttons-->
-<!--be creative-->
-<!--add!-->
